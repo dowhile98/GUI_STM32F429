@@ -30,6 +30,6 @@ Interfaces graficas con SMT32F4
 ## Instructor
 Especialista en MCU ARM y sistemas embebidos
 - Quino B. Jeffry
-- Telf     :955207709
+- Telf     :+51 955 207 709
 - Correo   : jeffryquino@gmail.com / dowhile98@gmail.com
 
